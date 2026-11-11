@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A953D2-5E8E-48F4-A145-45D9342D1442}|Lab8.1.string.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.string\\Lab8.1.string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6A953D2-5E8E-48F4-A145-45D9342D1442}|Lab8.1.string.vcxproj|solutionrelative:Lab8.1.string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4A1D37-7AE8-94B9-69CB-D62AAC9867B8}|..\\UnitTest19\\UnitTest19.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest19\\UnitTest19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab8.1.string.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.string\\Lab8.1.string.cpp",
+              "RelativeDocumentMoniker": "Lab8.1.string.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab8.1.string\\Lab8.1.string.cpp",
+              "RelativeToolTip": "Lab8.1.string.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T00:42:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest19.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest19\\UnitTest19.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest19\\UnitTest19.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest19\\UnitTest19.cpp",
+              "RelativeToolTip": "..\\UnitTest19\\UnitTest19.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T00:43:16.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
